@@ -1,0 +1,31 @@
+.card-container {
+    background-color: lightgray;
+    border: 1px solid grey;
+    border-radius: 5px;
+    margin: 75px 75px;
+
+
+}
+
+.card-container h1 {
+    text-align: center;
+}
+
+
+img {
+    /* width: 23%; */
+    border: 1px solid grey;
+    border-radius: 5px;
+    position: relative;
+    bottom: 38px;
+    left: 40px;
+
+}
+
+.card-content {
+    display: flex;
+}
+
+.card-content div {
+    margin-left: 75px;
+}

@@ -1,0 +1,38 @@
+.page-contant {
+
+  background-color: white;
+  margin-left: 50px;
+  margin-right: 50px;
+
+}
+
+.page-contant form {
+
+  text-align: center;
+}
+
+.page-contant input {
+
+  margin-top: 38px;
+
+}
+
+.page-header {
+  background-color: darkblue;
+  color: white;
+
+
+}
+
+
+.page-header h1 {
+  margin-top: 0;
+  margin-left: 50px
+}
+
+.page-contant button {
+  background-color: darkblue;
+  color: white;
+  margin-left: 10px;
+
+}
